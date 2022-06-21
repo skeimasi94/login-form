@@ -4,8 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
-Before start project, run server.js by following command:
-node src/server.js
+Before start project, run server.js with the following command:\
+$ node src/server.js
 
 In the project directory, you can run:
 
